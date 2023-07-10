@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb://127.0.0.1:27017/mernapp",
+    "mongoOnlineURI": "mongodb+srv://nnn:nnn@cluster0.54vp9qi.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mymernapp"
+}
